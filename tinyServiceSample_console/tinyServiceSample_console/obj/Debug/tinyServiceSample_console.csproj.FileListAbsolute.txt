@@ -1,0 +1,20 @@
+C:\Users\AYSEGUL.YANIK\source\repos\tinyServiceSample_console\tinyServiceSample_console\bin\Debug\tinyServiceSample_console.exe.config
+C:\Users\AYSEGUL.YANIK\source\repos\tinyServiceSample_console\tinyServiceSample_console\bin\Debug\tinyServiceSample_console.exe
+C:\Users\AYSEGUL.YANIK\source\repos\tinyServiceSample_console\tinyServiceSample_console\bin\Debug\tinyServiceSample_console.pdb
+C:\Users\AYSEGUL.YANIK\source\repos\tinyServiceSample_console\tinyServiceSample_console\bin\Debug\Topshelf.dll
+C:\Users\AYSEGUL.YANIK\source\repos\tinyServiceSample_console\tinyServiceSample_console\bin\Debug\Topshelf.xml
+C:\Users\AYSEGUL.YANIK\source\repos\tinyServiceSample_console\tinyServiceSample_console\obj\Debug\tinyServiceSample_console.csprojAssemblyReference.cache
+C:\Users\AYSEGUL.YANIK\source\repos\tinyServiceSample_console\tinyServiceSample_console\obj\Debug\tinyServiceSample_console.csproj.CoreCompileInputs.cache
+C:\Users\AYSEGUL.YANIK\source\repos\tinyServiceSample_console\tinyServiceSample_console\obj\Debug\tinyServiceSample_console.csproj.CopyComplete
+C:\Users\AYSEGUL.YANIK\source\repos\tinyServiceSample_console\tinyServiceSample_console\obj\Debug\tinyServiceSample_console.exe
+C:\Users\AYSEGUL.YANIK\source\repos\tinyServiceSample_console\tinyServiceSample_console\obj\Debug\tinyServiceSample_console.pdb
+D:\Visual Studio Projelerim\laptoptaki projeler\tinyServiceSample_console\tinyServiceSample_console\bin\Debug\tinyServiceSample_console.exe.config
+D:\Visual Studio Projelerim\laptoptaki projeler\tinyServiceSample_console\tinyServiceSample_console\bin\Debug\tinyServiceSample_console.exe
+D:\Visual Studio Projelerim\laptoptaki projeler\tinyServiceSample_console\tinyServiceSample_console\bin\Debug\tinyServiceSample_console.pdb
+D:\Visual Studio Projelerim\laptoptaki projeler\tinyServiceSample_console\tinyServiceSample_console\bin\Debug\Topshelf.dll
+D:\Visual Studio Projelerim\laptoptaki projeler\tinyServiceSample_console\tinyServiceSample_console\bin\Debug\Topshelf.xml
+D:\Visual Studio Projelerim\laptoptaki projeler\tinyServiceSample_console\tinyServiceSample_console\obj\Debug\tinyServiceSample_console.csprojAssemblyReference.cache
+D:\Visual Studio Projelerim\laptoptaki projeler\tinyServiceSample_console\tinyServiceSample_console\obj\Debug\tinyServiceSample_console.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projelerim\laptoptaki projeler\tinyServiceSample_console\tinyServiceSample_console\obj\Debug\tinyServiceSample_console.csproj.CopyComplete
+D:\Visual Studio Projelerim\laptoptaki projeler\tinyServiceSample_console\tinyServiceSample_console\obj\Debug\tinyServiceSample_console.exe
+D:\Visual Studio Projelerim\laptoptaki projeler\tinyServiceSample_console\tinyServiceSample_console\obj\Debug\tinyServiceSample_console.pdb
