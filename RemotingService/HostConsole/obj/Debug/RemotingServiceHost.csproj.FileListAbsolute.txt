@@ -1,0 +1,12 @@
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\HostConsole\bin\Debug\HostConsole.exe.config
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\HostConsole\bin\Debug\HostConsole.exe
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\HostConsole\bin\Debug\HostConsole.pdb
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\HostConsole\bin\Debug\RemotingClassLibrary.dll
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\HostConsole\bin\Debug\RemotingService_hello.dll
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\HostConsole\bin\Debug\RemotingClassLibrary.pdb
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\HostConsole\bin\Debug\RemotingService_hello.pdb
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\HostConsole\obj\Debug\RemotingServiceHost.csprojAssemblyReference.cache
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\HostConsole\obj\Debug\RemotingServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\HostConsole\obj\Debug\RemotingServiceHost.csproj.CopyComplete
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\HostConsole\obj\Debug\HostConsole.exe
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\HostConsole\obj\Debug\HostConsole.pdb

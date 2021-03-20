@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HelloRemotingService/1.0.0": {
+        "dependencies": {
+          "RemotingService": "1.0.0"
+        },
+        "runtime": {
+          "HelloRemotingService.dll": {}
+        }
+      },
+      "RemotingService/1.0.0": {
+        "runtime": {
+          "RemotingService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloRemotingService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RemotingService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

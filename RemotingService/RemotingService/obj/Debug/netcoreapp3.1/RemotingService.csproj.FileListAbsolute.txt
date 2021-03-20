@@ -1,0 +1,9 @@
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\RemotingService\bin\Debug\netcoreapp3.1\RemotingService.deps.json
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\RemotingService\bin\Debug\netcoreapp3.1\RemotingService.dll
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\RemotingService\bin\Debug\netcoreapp3.1\RemotingService.pdb
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\RemotingService\obj\Debug\netcoreapp3.1\RemotingService.csprojAssemblyReference.cache
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\RemotingService\obj\Debug\netcoreapp3.1\RemotingService.AssemblyInfoInputs.cache
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\RemotingService\obj\Debug\netcoreapp3.1\RemotingService.AssemblyInfo.cs
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\RemotingService\obj\Debug\netcoreapp3.1\RemotingService.csproj.CoreCompileInputs.cache
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\RemotingService\obj\Debug\netcoreapp3.1\RemotingService.dll
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\RemotingService\obj\Debug\netcoreapp3.1\RemotingService.pdb

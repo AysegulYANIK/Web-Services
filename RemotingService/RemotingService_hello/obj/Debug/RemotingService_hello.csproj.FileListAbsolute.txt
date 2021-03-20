@@ -1,0 +1,9 @@
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\RemotingService_hello\bin\Debug\RemotingService_hello.dll
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\RemotingService_hello\bin\Debug\RemotingService_hello.pdb
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\RemotingService_hello\bin\Debug\RemotingClassLibrary.dll
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\RemotingService_hello\bin\Debug\RemotingClassLibrary.pdb
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\RemotingService_hello\obj\Debug\RemotingService_hello.csprojAssemblyReference.cache
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\RemotingService_hello\obj\Debug\RemotingService_hello.csproj.CoreCompileInputs.cache
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\RemotingService_hello\obj\Debug\RemotingService_hello.csproj.CopyComplete
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\RemotingService_hello\obj\Debug\RemotingService_hello.dll
+C:\Users\AYSEGUL.YANIK\source\repos\RemotingService\RemotingService_hello\obj\Debug\RemotingService_hello.pdb
